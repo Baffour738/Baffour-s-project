@@ -1,4 +1,11 @@
 def addFunction(x,y):
     return x+y
 
-addFunction(2,4)
+def subFunction(x,y):
+    return x-y
+
+def prodFunction(x,y):
+    return x*y
+
+def divFunction(x,y):
+    return x/y
