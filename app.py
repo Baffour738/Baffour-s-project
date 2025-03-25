@@ -12,3 +12,6 @@ def divFunction(x,y):
 
 def powFunction(x,y):
     return x**y
+
+def integerDiv(x,y):
+    return x//y
